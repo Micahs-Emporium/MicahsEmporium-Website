@@ -15,7 +15,7 @@ const locations = [
   { name: 'Loc1-PublicPantry', coords: [700, 200], file: 'locations/Loc1-PublicPantry.html' },
   { name: 'Loc1-DiningHall', coords: [600,780], file: 'locations/Loc1-DiningHall.html' },
   { name: 'Loc1-MasterBedroom', coords: [1350, 2000], file: 'locations/Loc1-MasterBedroom.html' },
-  { name: 'Loc1-KidsRooms', coords: [820, 2215], file: 'locations/Loc1-kidsRooms.html' }
+  { name: 'Loc1-KidsRooms', coords: [820, 2215], file: 'locations/Loc1-KidsRooms.html' }
 ];
 
 locations.forEach(loc => {
