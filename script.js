@@ -6,7 +6,7 @@ const map = L.map('map', {
 const mapWidth = 3000; // Replace with your actual map size
 const mapHeight = 2000;
 const bounds = [[0,0], [mapHeight, mapWidth]];
-const image = L.imageOverlay('map/your-map.jpg', bounds).addTo(map);
+const image = L.imageOverlay('map/your-map.png', bounds).addTo(map);
 
 map.fitBounds(bounds);
 
